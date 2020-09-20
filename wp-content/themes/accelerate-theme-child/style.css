@@ -22,3 +22,29 @@ Text Domain:  accelerate-theme-child
 .button {
     background: none repeat scroll 0 0 darkblue;
 }
+
+/* Styles for blog post on homepage */
+
+.blog-post {
+    width: 50%;
+    float: left;
+	margin-bottom: 2em;
+}
+.blog-post h4 {
+    font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    color: grey;
+    text-transform: uppercase;
+    margin: 2em 0 .5em;
+}
+
+.blog-post h3 {
+    font-size: 1.5em;
+    text-transform: capitalize;
+}
+
+.blog-post span {
+    color: darkblue;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Montserrat';
+}
