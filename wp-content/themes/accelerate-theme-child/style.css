@@ -48,3 +48,104 @@ Text Domain:  accelerate-theme-child
     font-weight: bold;
     font-family: 'Montserrat';
 }
+
+/* Custom post styles */
+
+.case-study {
+    float: left;
+    width: 30%;
+    padding-right: 30px;
+}
+
+.case-study h2 {
+    font-size: 1.3em;
+}
+
+.case-study h4 {
+    color: grey;
+    font-size: 0.7em;
+    text-transform: capitalize;
+}
+
+.case-study h4 span {
+    color: black;
+}
+
+.case-study-images {
+    float: left;
+}
+
+/* Featured Works on Homepage Styling */
+
+.featured-work .site-content h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.homepage-featured-work {
+    list-style-type: none;
+}
+
+.individual-featured-work {
+    float: left;
+    padding: 10px 50px;
+
+}
+
+/* End of Featured Works on Homepage Styling */
+
+
+/* Archive page styling */
+
+.archive-case-study {
+    float: left;
+    overflow: auto;
+    clear: both;
+}
+
+.archive-case-study-sidebar h2{
+    margin: 0;
+}
+
+.archive-case-study-sidebar h4{
+    margin: 0;
+    color: lightgrey;
+    font-size: 0.7em;
+    text-transform: uppercase;
+}
+
+.view-more{
+    color: darkblue;
+    font-size: 0.7em;
+    text-transform: uppercase;
+}
+
+div.case-study-images img {
+	width: 100%;
+	height: auto;
+}
+
+/* End of archive page styling */
+
+/* Footer icons */
+
+.social-media-menu {
+    list-style-type: none;
+}
+
+.social-media-menu li {
+    float: left;
+    margin-right: 10px;
+}
+
+.social-media-menu a{
+    color: white;
+    background-color: grey;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+/* End of Footer icons */
+
+
+
